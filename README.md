@@ -2,6 +2,12 @@
 
 Inventory App adalah aplikasi Android berbasis Kotlin yang dirancang untuk membantu pengguna dalam mengelola stok barang secara efisien. Aplikasi ini cocok digunakan untuk toko, gudang, atau bisnis kecil dan menengah.
 
+# Anggota Kelompok
+- Eko Apriliyani
+- Bimo Haryo Wibowo
+- Rifqi Bayu Sasongko
+- Dyna Permata Sari
+
 ## ✨ Fitur Utama
 
 - 🔐 Login dan autentikasi pengguna
