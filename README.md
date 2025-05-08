@@ -36,7 +36,7 @@ Inventory App adalah aplikasi Android berbasis Kotlin yang dirancang untuk memba
 - **Coroutines** - Untuk pemrosesan asynchronous
 
 ## 📷 Storyboard
+![storyboard_page-0001](https://github.com/user-attachments/assets/de3b1653-9fcf-4d03-9c7c-2367be1ca66d)
 
-> Tambahkan gambar screenshot aplikasi di sini (opsional)
 
 
